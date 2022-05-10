@@ -11,7 +11,7 @@ It's nice to meet you! Thanks for checking this out!
 ---
 
 ## I have some cool projects I work on whenever I can!
-#### Axiom
+#### [Axiom](https://github.com/ErrorOnUsername/axiom)
 
 <img width=400 src="meta/ax-logo.png"/>
 
@@ -24,7 +24,7 @@ to change however, because I do want to eventually write one. For now though, I'
 userspace, so I can get some kind of GUI up and running. We're a long way off from that right now, but that's
 my ultimate goal at the moment.
 
-#### Dead Pixel
+#### [Dead Pixel](https://github.com/ErrorOnUsername/dead-pixel)
 
 > I don't have a cool logo for this one yet, sorry :P
 
@@ -37,7 +37,7 @@ how it works in a practical sense. I want this to be a continuation of that prac
 this project to the point where I can start participating in things like game jams and maybe even release a game
 of my own.
 
-#### aimbots-dev
+#### [aimbots-dev](https://github.com/TAMU-Robomasters/aimbots-dev)
 
 <img width=150 src="meta/tamu-logo.jpeg"/>
 
