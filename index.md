@@ -39,7 +39,7 @@ of my own.
 
 #### aimbots-dev
 
-<img width=400 src="meta/tamu-logo.jpeg"/>
+<img width=150 src="meta/tamu-logo.jpeg"/>
 
 This is the project that I work on with all the other members of the TAMU Robomasters Embedded Software Team. It
 was one of my early adventures into the world of embedded programming (I did robotics in high school and a little
